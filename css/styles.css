@@ -242,7 +242,7 @@ background-color: #FFFFFF;
     text-align: left;
 }
 .section-about-article {
-    padding-right: 24px;
+    margin-right: 24px;
 }
 .section-about-article:last-child {
     padding-right: 0;
